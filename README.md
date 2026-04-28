@@ -1,2 +1,6 @@
-# sda-imagen-digital-dorado
-Situación de aprendizaje sobre imagen digital aplicada al dorado, plateado y policromía (eXeLearning)
+# SDA Imagen Digital
+
+Recurso educativo creado con eXeLearning para el módulo de Aplicaciones Informáticas.
+
+## Descarga
+Pulsa en "Code" → "Download ZIP"
